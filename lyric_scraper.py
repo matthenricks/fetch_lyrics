@@ -122,8 +122,6 @@ def findSongAPI(artist, track):
         return (None, None)
     '''
 
-
-
 start = datetime.datetime.now()
 index = 0
 # Start at this song (it's 1 + the last song that was written to file)
