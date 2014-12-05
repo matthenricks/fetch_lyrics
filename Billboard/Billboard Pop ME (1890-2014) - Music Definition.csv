@@ -1,0 +1,48 @@
+NOTE: There are several columns included that are used strictly for a renamer program that one of our group wrote. These columns are not required if you do not use/have this program. ,
+Year,The Year in which the single first hit its highest weekly position.
+Yearly Rank,Yearly Rankings (###) Formula: Highest Position/Number of Weeks at highest/Number of weeks in Top 10/40/100 & Alphabetical if still tied
+Source,"Where information for each title got it's start.  Chart information such as high position, weeks, etc - Everything from 1960 onwards will be 't'"
+,a = Whitburn annual (to be deleted)
+,b = Billboard (to be deleted)
+,JB = Jukebox (Pre 60)
+,BS = Best Sellers (pre 60)
+,TOP = Top 100
+,H = Hot 100
+,
+Prefix,"""Year"" & ""Rank"" combined for the purpose of sorting the spreadsheet"
+,"Prefix ""##_###b"" - Song is the ""B-Side"" of noted ##_###"
+CH,The number of weeks the single charted
+40,The number of weeks the single charted at 40 or below
+10,The number of weeks the single charted at 10 or below
+PK,The number of weeks the single charted at it's highest position (See High)
+High,The Peak Position of the single
+Verified,"All data on single has been verified (Specifically Time, Label and Media) m = missing, t = time verified, p = label verified, x = all verified"
+Artist,Artist as shown on actual label (Billboard chart is default until single is actually verified)
+Artist (Inverted),"Artist listed as (Last, First)"
+Featured,"For informational purposes in ID3V1 or 2: Anytime a performer is listed as a ""Featured Artist"" it will be listed here"
+UnFeatured,Additional Artists involved with the creation of the single not listed on the label or Sleeve.
+Album,Title of the Album (if any) that the single ORIGINALLY was taken from for THIS single.
+Album Label and Number,
+Title,Title as shown on actual label (Billboard chart is default until single is actually verified)
+,NOTE: All songs listed in Spreadsheet are considered the [Clean] Versions played on the Radio.  (No [Dirty/Explicit] Versions to be posted with the Prefix unless noted in filename!)  Keep in mind that due to the DD [Digital Downloads] there are some that don't have a clean version - note it anyway in filename.
+Single Time,"In order of precedence, ultimate goal is to list ""Actual Playtimes"" for all titles"
+,1. Actual Playtimes (The Exact duration of the correct single that has been collected)
+,"2. Time listed on Label (Best source other than timing the song yourself) However, Labels have been known to be off many times."
+,"3. Times as listed in Pop Annual/Hits (Frequently Wrong, but a beginning source)"
+,"4. Times exported from Bob Moke MP3 Posts (Actually playtimes of MP3, in hopes that it is the correct version of song)"
+Time Source,Source of time listed in 'Time' column. Blank means time was taken from source other then original charted track (usually Whitburn's Yearbook) SEE ABOVE. Goal is to match 'Media Type' column (#38 below)
+Explicit,"An ""x"" identifies the song as having an ""explicit"" version, ""c"" means a ""clean"" version is available."
+Symbol,"[F]oreign, [R]e-issue, [I]nstrumental, [N]ovelty, [X]mas, [C]omedy, [T]alking and/or [S]peaking"
+ReIssue,(####_###) <-- When did this single hit the charts elsewhere in spreadsheet.  Must be same song.  Used for cross referencing.
+Label/Number,"The label as listed on Billboard chart. Other labels may be listed in ""Comments"""
+Media Type,"Indicates what the song charted as (78, 45, EP, CS, CD, AC, DD) 78RPM, 45RPM, Extended Play, Cassette Single, CD Single,"
+,"Album Cut, Digital Download. The 'm' or 's' after '45' indicates whether Orig 45 was mono or stereo"
+Genre,"Type of music: Rock, R&B, Country, Rap, Vocal, Jazz are most common."
+Comments,Any comments of interest to the specific single
+Written By,Who should get credit for the single….really…the writers!  (Entered as data comes in)
+Temp 1,"Raw scoring system where points are given for every week on the charts, and by how high it charted each week. 100 for ~1, 99 for #2, etc."
+Date Entered,The month/day/year the single first hit the charts
+Date Peaked,The month/day/year the single first hit it's highest peak position.
+"1 - 75 ""Week""","using ""1st Week"" as ""Date Entered Charts"", the chart ranking history of particular single. The next number would be the second weeks position, and so on."
+,
+,

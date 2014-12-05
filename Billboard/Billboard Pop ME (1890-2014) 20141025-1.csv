@@ -1,0 +1,26 @@
+"I found several errors in your spreadsheet, how can I fix them?",
+,"Please submit errors to me through e-mail to bullfrog@bullfrogspond.com with some type of proof for the correction (if required). Proof can be a scan, link to a scan on website, etc."
+,
+"All Years are numbered Most Popular to Least, What's Up with the current years Data?",
+,"Yes, All Years are sorted by ""Most Weeks At #1"" then ""Most at #2"" and so on.  Current year is sorted chronologically, in the order of ""Highest Position of Week"" to ""Lowest"".  Notice the ""-"" in the Prefix instead of the ""_"" , The "" - "" is used for temporary numbers.  Current year will be renumbered somewhere around April-May of next year when the last of this years songs fall off chart."
+,
+You have David Whitfield - Santo Natale as both 1954_128 and as 1955X001,
+ the renamer picks up on the 1955X001 and so if you use that prefix you are left with a hole for 1954_128,
+Aames Brothers - Naughty Lady Of Shady Lane -- is in SS as both 1954_019 and also 1955_023,
+,"This is a rarity caused by the book cut off dates, whitburn has this song listed in both Pop Memories and Pop Hits, and, although it is probably the same chart history. This will eventually be changed as we move away from Whitburn."
+,
+"I can't see all of the data in your spreadsheet, even after I move the lower-right bar back and forth.",
+,How To's
+Reduce/,Hold down the <CTRL> key and roll your wheel mouse up and down to desired size. Or…
+Enlarge Text Size,"Click on ""View"" and ""Zoom"" select % of size."
+,Note: to view the weekly data (off to the far right) you may need to zoom to 50% or lower
+Hide Columns,"Place Mouse Pointer on the line separating the letters on the top of the spreadsheet.  For Example if we want to hide the ""Artist Inverted"" column, Place the mouse pointer on the line directly to the right of ""L"" until you see the pointer change.  Hold down the mouse button and move it to the left as far as it will go."
+Create Inverted List,"Some people prefer a complete list for Inverted Artist, Copy and paste the Entire Inverted column on top of the ""Artist"" column, but use Edit -> ""Paste Special"" and choose ""Values"" and ""Skip Blanks"" when pasting."
+,
+"I want to create a tab separated text file for use with Xenoliths ""Tagger & Renamer"" and/or ""Cataloger"" Program",
+,"1. Open up the Spreadsheet so that the song lists are viewed """"Click the """"Pop"""" Tab on bottom left, 2. Make sure """"ALL"""" columns are visable...i.e.  column """"A"""" column """"B"""" column """"C"""" etc.3. Hit select all (Do this by clicking the empty grey square before the """"A"""" column and the """"1"""" Row - you will see everything highlight itself, 4. Copy <Ctrl-C>, 5. Open a blank txt document with """"Notepad"""", Make sure wordwrap is turned off, and paste <Ctrl-V>.     Click """"format"""" and ensure that there is no check next to """"WordWrap"""")6. Save the new text file to a directory you can remember.  Open """"Tagger & Renamer.exe"""" and point to that    new text file."
+,
+Just what are all those numbers to the right of the spreadsheet (Weeks 1 thru 75)?,
+,"These are the Weekly Chart Positions for each song listed in the spreadsheet.  The first week, you may notice a number - this number is the position on the chart during the 1st week on chart.  The date is entered in the ""Date Entered"" column.  The 2nd week is a week later, Third...etc.  If you notice blank cells between numbers, that means the song fell off the chart for that amount of time."
+,
+How are songs ranked each year?,
